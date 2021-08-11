@@ -1,0 +1,43 @@
+body{
+text-align:center;
+background-image: url('https://media.istockphoto.com/photos/neon-particles-background-blue-pink-abstract-glowing-space-picture-id1212605252?b=1&k=6&m=1212605252&s=170667a&w=0&h=h_XGzWNjd1alPWptlbNXMBlsRCxoEVaphd8JVc14myk=');
+}
+#mercury{
+ width:600px;
+}
+#venus{
+ width:500px;
+  height:500px;
+}
+#earth{
+ width:500px;
+  height:500px;
+}
+#mars{
+ width:500px;
+  height:400px;
+}
+#jupiter{
+ width:500px;
+  height:500px;
+}
+#saturn{
+ width:500px;
+  height:500px;
+}
+#uranus{
+ width:500px;
+  height:500px;
+}
+#neptune{
+ width:500px;
+  height:500px;
+}
+#sun{
+ width:800px;
+  
+}
+#solarsystem{
+ width:1000px;
+  
+}
